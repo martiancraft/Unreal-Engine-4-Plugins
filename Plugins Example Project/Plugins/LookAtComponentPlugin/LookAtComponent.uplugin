@@ -1,0 +1,19 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "LookAtComponentPlugin",
+	"Version": 1,
+	"VersionName": "1.0",
+	"CreatedBy": "Jeff LaMarche",
+	"CreatedByURL": "http://martiancraft.com",
+	"EngineVersion" : "4.8.0",
+	"Category": "MartianCraft",
+	"Description": "Movement component that keeps an actor oriented toward the player, another actor, or a location.",
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "LookAtComponentPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

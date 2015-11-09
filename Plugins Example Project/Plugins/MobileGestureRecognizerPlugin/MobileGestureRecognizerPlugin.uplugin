@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"FriendlyName": "MobileGestureRecognizerPlugin",
+	"Version": 1,
+	"VersionName": "1.0",
+	"CreatedBy": "Jeff LaMarche",
+	"CreatedByURL": "http://martiancraft.com",
+	"Category": "MartianCraft",
+	"Description": "Mobile Touch Handling and Gesture Recognition implemented as actor components",
+	"EnabledByDefault": false,
+	"Modules": [
+		{
+			"Name": "MobileGestureRecognizerPlugin",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

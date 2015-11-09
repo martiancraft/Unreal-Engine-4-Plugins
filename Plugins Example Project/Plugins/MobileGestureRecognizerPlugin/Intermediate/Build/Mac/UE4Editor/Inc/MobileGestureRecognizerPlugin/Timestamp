@@ -1,0 +1,8 @@
+/Users/jeff/dev/Unreal-Engine-4-Plugins/Plugins Example Project/Plugins/MobileGestureRecognizerPlugin/Source/MobileGestureRecognizerPlugin/Public/DynamicGestureRecognizer.h
+/Users/jeff/dev/Unreal-Engine-4-Plugins/Plugins Example Project/Plugins/MobileGestureRecognizerPlugin/Source/MobileGestureRecognizerPlugin/Public/GestureMathLibrary.h
+/Users/jeff/dev/Unreal-Engine-4-Plugins/Plugins Example Project/Plugins/MobileGestureRecognizerPlugin/Source/MobileGestureRecognizerPlugin/Public/GestureRecognizerComponent.h
+/Users/jeff/dev/Unreal-Engine-4-Plugins/Plugins Example Project/Plugins/MobileGestureRecognizerPlugin/Source/MobileGestureRecognizerPlugin/Public/InstantTapRecognizer.h
+/Users/jeff/dev/Unreal-Engine-4-Plugins/Plugins Example Project/Plugins/MobileGestureRecognizerPlugin/Source/MobileGestureRecognizerPlugin/Public/PanGestureRecognizer.h
+/Users/jeff/dev/Unreal-Engine-4-Plugins/Plugins Example Project/Plugins/MobileGestureRecognizerPlugin/Source/MobileGestureRecognizerPlugin/Public/PinchRotateGestureRecognizer.h
+/Users/jeff/dev/Unreal-Engine-4-Plugins/Plugins Example Project/Plugins/MobileGestureRecognizerPlugin/Source/MobileGestureRecognizerPlugin/Public/SwipeGestureRecognizer.h
+/Users/jeff/dev/Unreal-Engine-4-Plugins/Plugins Example Project/Plugins/MobileGestureRecognizerPlugin/Source/MobileGestureRecognizerPlugin/Public/TapGestureRecognizer.h
